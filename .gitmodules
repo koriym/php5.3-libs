@@ -19,3 +19,6 @@
 [submodule "vendors/doctorine2"]
 	path = vendors/doctorine2
 	url = https://github.com/doctrine/doctrine2.git
+[submodule "vendors/fuel"]
+	path = vendors/fuel
+	url = https://github.com/fuel/fuel.git
