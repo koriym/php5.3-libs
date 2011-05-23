@@ -1,0 +1,21 @@
+[submodule "vendors/aura"]
+	path = vendors/aura
+	url = https://github.com/auraphp/system.git
+[submodule "vendors/zf2"]
+	path = vendors/zf2
+	url = https://github.com/zendframework/zf2.git
+[submodule "vendors/symfony2"]
+	path = vendors/symfony2
+	url = https://github.com/symfony/symfony.git
+[submodule "vendors/flow3"]
+	path = vendors/flow3
+	url = git://git.typo3.org/FLOW3/Distributions/Base.git
+[submodule "vendors/alloy"]
+	path = vendors/alloy
+	url = https://github.com/alloyphp/alloy.git
+[submodule "vendors/ding"]
+	path = vendors/ding
+	url = git://github.com/marcelog/Ding
+[submodule "vendors/doctorine2"]
+	path = vendors/doctorine2
+	url = https://github.com/doctrine/doctrine2.git
