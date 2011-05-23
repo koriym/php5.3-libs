@@ -1,6 +1,6 @@
 collection of PHP5.3+ only frameworks/libs
 
-$ git clone git@github.com:koriym/php53libs.git
+$ git clone git@github.com:koriym/php5.3-libs.git
 $ cd php53libs/
 $ git submodule init
 $ git submodule update
