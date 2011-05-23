@@ -1,4 +1,4 @@
-collection of PHP5.3+ only frameworks/libs
+a collection of PHP5.3+ only frameworks/libs
 
 $ git clone git@github.com:koriym/php5.3-libs.git
 $ cd php5.3-libs
