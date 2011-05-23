@@ -1,1 +1,27 @@
 collection of PHP5.3+ only frameworks/libs
+
+$ git clone git@github.com:koriym/php53libs.git
+$ cd php53libs/
+$ git submodule init
+$ git submodule update
+
+Alloy
+http://alloyframework.org/
+
+Aura Project for PHP
+http://auraphp.github.com/
+
+Ding
+http://marcelog.github.com/Ding/
+
+Doctrine
+http://www.doctrine-project.org/
+
+Flow3
+http://flow3.typo3.org/
+
+Symfony2
+http://symfony.com/
+
+Zend Framework 2
+https://github.com/zendframework/zf2/blob/master/README.txt
