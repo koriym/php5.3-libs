@@ -25,3 +25,6 @@
 [submodule "vendors/lithium"]
 	path = vendors/lithium
 	url = https://github.com/UnionOfRAD/framework.git
+[submodule "vendors/Nette"]
+	path = vendors/Nette
+	url = git://github.com/nette/nette.git
